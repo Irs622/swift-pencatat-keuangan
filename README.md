@@ -1,4 +1,4 @@
-# SmartExpense AI 📱💰
+# SmartExpense AI 
 
 SmartExpense AI adalah aplikasi pencatat keuangan pribadi berbasis iOS (SwiftUI) yang dilengkapi dengan fitur kecerdasan buatan (AI) untuk memindai struk belanja secara otomatis. Aplikasi ini dirancang dengan antarmuka *Glassmorphism* yang modern, premium, dan intuitif.
 
@@ -12,7 +12,7 @@ SmartExpense AI adalah aplikasi pencatat keuangan pribadi berbasis iOS (SwiftUI)
 *   **Penyimpanan Data Lokal (Offline First)**: Semua data transaksi, kategori, dan anggaran disimpan secara aman di perangkat Anda menggunakan teknologi **SwiftData**, sehingga aplikasi dapat digunakan tanpa koneksi internet.
 *   **Format Rupiah (IDR)**: Sepenuhnya mendukung lokalisasi ke format mata uang Rupiah.
 
-## Teknologi yang Digunakan 🛠️
+## Teknologi yang Digunakan 
 
 *   **SwiftUI**: Framework UI deklaratif dari Apple untuk antarmuka pengguna yang responsif.
 *   **SwiftData**: Solusi persistensi data modern untuk ekosistem Apple.
@@ -20,7 +20,7 @@ SmartExpense AI adalah aplikasi pencatat keuangan pribadi berbasis iOS (SwiftUI)
 *   **UserNotifications**: Untuk menjadwalkan dan mengirimkan peringatan anggaran ke pengguna.
 *   **Clean Architecture**: Struktur kode yang terorganisir dengan pemisahan antara Data, Application, dan Presentation layer.
 
-## Cara Menjalankan Proyek 🚀
+## Cara Menjalankan Proyek 
 
 1.  Pastikan Anda memiliki **Xcode** versi terbaru terinstal di Mac Anda (minimal mendukung iOS 17 & SwiftData).
 2.  *Clone* repositori ini:
@@ -33,4 +33,6 @@ SmartExpense AI adalah aplikasi pencatat keuangan pribadi berbasis iOS (SwiftUI)
 6.  Tekan **Cmd + R** (Run) untuk membangun dan menjalankan aplikasi.
 
 ---
-*Catatan: Meskipun nama repository ini mengandung kata "flutter", proyek ini dikembangkan secara native menggunakan Swift dan SwiftUI.* 
+
+
+
