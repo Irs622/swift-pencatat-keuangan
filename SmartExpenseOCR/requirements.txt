@@ -1,7 +1,10 @@
 fastapi
 uvicorn
-paddleocr
-paddlepaddle
+paddleocr>=3.0.0
+paddlepaddle>=3.0.0b1
 opencv-python
 pillow
 python-multipart
+layoutparser
+pyclipper
+shapely
